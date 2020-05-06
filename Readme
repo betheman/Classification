@@ -1,1 +1,10 @@
+Here I have performed the classification task using Logistic Regression algorithm.
 
+# file Heart_Desease_Prediction
+Here I have uses the sklearn's library to perform the classification task.
+Here I have uses Logistic Regression class present in the sklearn library.
+
+
+# file Heart_analysis_using_maths
+
+Here I have performed the completed classification task without using the sklearn library.
